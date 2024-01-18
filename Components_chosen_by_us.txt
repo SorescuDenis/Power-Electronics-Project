@@ -1,0 +1,4 @@
+Transistor - https://www.tme.eu/ro/details/ipa50r380cexksa2/tranzistori-canal-n-tht/infineon-technologies/
+The 3 Diodes - https://www.tme.eu/ro/details/sb260-dio/diode-schottky-tht/diotec-semiconductor/sb260/
+C1 condensator - https://www.tme.eu/ro/details/eeufr1j180b/condensatoare-electrolitice-tht-105degc/panasonic/
+C2 output condensator - https://www.tme.eu/ro/details/eeaga1h1r5/condensatoare-electrolitice-tht-105degc/panasonic/
